@@ -6,9 +6,9 @@
      - let
      - const
   -----------*/  
-let name = "Farhan Athar";
-const admin = name;
-alert(admin);
+// let name = "Farhan Athar";
+// const admin = name;
+// alert(admin);
 /*-----------
     1- Data types
     -- There are seven types of variables
